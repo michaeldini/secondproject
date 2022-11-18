@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "secondproject"
+  site-url: "https://michaeldini.github.io/secondproject"
+  description: "second project attempt with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/michaeldini/secondproject"
